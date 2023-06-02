@@ -1,7 +1,8 @@
 # uplatnica
 Uplatnice za porez
 
-Preuzmite uplatnice koje trebate tako da kliknete na "uplatnica 1 ... .docx" , ili "uplatnica 2 ... .docx", ili "uplatnica 3 ... .docx"
+Preuzmite uplatnice koje trebate tako da kliknete na "uplatnica 1 ... .docx" , ili "uplatnica 2 ... .docx", ili "uplatnica 3 ... .docx", a zatim kliknite na download.
+
 https://poreskaupravars.org/fizicka-lica/nepokretnosti/instrukcije-za-placanje/
 
 
