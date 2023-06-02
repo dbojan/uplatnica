@@ -12,8 +12,7 @@ uplatnica 1:
 <br />
 <br />
 <br />
-<br />
 
-uplatnica 2:
+uplatnica 2, 2a:
 
 ![](uplatnica2.png)
