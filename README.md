@@ -26,3 +26,8 @@ uplatnica 3, matrix štampač
 
 ![](epson.png)
 ![](epson-paper-thickness-set-to-1.png)
+
+
+<br />
+<br />
+https://poreskaupravars.org/fizicka-lica/nepokretnosti/instrukcije-za-placanje/
